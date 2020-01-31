@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 400px;
+    margin: 20px auto;
+    flex-direction: column;
+}
+
+h1, h2, p {
+    color: white;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+#bbq-img {
+    max-height: 200px;
+    display: flex;
+    margin: 0 auto;
+}
+
+#submit-btn {
+    background-color: red;
+    color: white;
+    border: 0;
+    padding: 5px;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: flex;
+    margin: 10px auto;
+}
+
+.result {
+    text-align: center;
+    align-content: center;
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="src/style.css">
+    <script src="src/index.js"></script>
+    <title>Barbecue</title>
+</head>
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="column">
+                <img src="images/bbq-transparent-10.gif" id="bbq-img">
+                <h1>Churrascão na Laje</h1><br>
+                <div class="row">
+                    <div class="col">
+                        <p>Pessoas: </p>
+                    </div>
+                    <div class="col">
+                        <input type="number" id="qnt-people"><br>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col">
+                        <p>Horas de churrasco: </p>
+                    </div>
+                    <div class="col">
+                        <input type="number" id="party-time"><br>
+                    </div>
+                </div>
+                    
+                                        
+                    <button onclick="barbecueCalc()" id="submit-btn">Bora pro rango!</button><br>   
+
+                <div class="result">
+                    <h2 id="result-title"></h2>
+                    <p id="result-food"></p>
+                    <p id="result-beer"></p>
+                    <p id="result-soda"></p>
+                </div>    
+            </div>   
+        </div>
+    </div>
+    
+</body>
+</html>
