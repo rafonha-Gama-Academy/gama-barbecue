@@ -10,8 +10,11 @@ Exemplo de aplicação: https://rafonha-gama-academy.github.io/gama-barbecue/
 
 ## Lógica:
 100g de comida por pessoa/h;
+
 1 latinha de cerveja (365ml) por pessoa/h;
+
 100ml de refrigerante por pessoa/h.
+
 
 ## Aprimore a sua aplicação! Algumas ideias:
 - Diferencie as pessoas entre homens, mulheres e crianças (select, slider, etc), e coloque quantidades diferentes de carne, cerveja e refrigerante dependendo das pessoas que irão;
