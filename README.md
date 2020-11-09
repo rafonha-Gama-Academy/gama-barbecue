@@ -6,7 +6,7 @@ Exemplo de aplicação: https://rafonha-gama-academy.github.io/gama-barbecue/
 ## Instruções
 - Você deve usar apenas HTML, CSS e JavaScript para fazer essa aplicação;
 - A aplicação deve ser responsiva, ou seja, se adaptar a diferentes tamanhos de telas;
-- Você pode usar frameworks de CSS para ajudá-los na estilização da aplicação.
+- Você pode usar frameworks de CSS (Bootstrap, Materialize, etc.) para ajudá-los na estilização da aplicação.
 
 ## Lógica:
 100g de comida por pessoa/h;
