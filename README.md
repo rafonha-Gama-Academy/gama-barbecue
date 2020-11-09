@@ -1,22 +1,17 @@
-# gama-barbecue
-Calculate quantity of meat and drinks to a barbecue - HTML, CSS and Javascript. 
+# Gama barbecue
+Crie uma aplicação responsiva que calcule, a partir do número de pessoas e horas, os insumos necessários para a realização de um churrasco (litros de cerveja, refrigerante e quilos de carne/vegetais). 
 
-### Installation
-No instalation needed, this project was created entirely in HTML and CSS.
+## Instruções
+- Você deve usar apenas HTML, CSS e JavaScript para fazer essa aplicação;
+- A aplicação deve ser responsiva, ou seja, se adaptar a diferentes tamanhos de telas;
+- Você pode usar frameworks de CSS para ajudá-los na estilização da aplicação.
 
-### Usage
-None. This is only an exercise.
-
-## Desafio
-Crie uma aplicação responsiva que calcule, a partir do número de pessoas e horas, os insumos necessários para a realização de um churrasco (litros de cerveja, refrigerante e quilos de carne/vegetais).
-
-### A lógica:
+## Lógica:
 100g de comida por pessoa/h;
 1 latinha de cerveja (365ml) por pessoa/h;
 100ml de refrigerante por pessoa/h.
 
-### Aprimore a sua aplicação! Algumas ideias:
-
+## Aprimore a sua aplicação! Algumas ideias:
 - Diferencie as pessoas entre homens, mulheres e crianças (select, slider, etc), e coloque quantidades diferentes de carne, cerveja e refrigerante dependendo das pessoas que irão;
 - Diferencia os tipos de carne para o churrasco (boi, frango, porco, vegano);
 - Adicione elementos adicionais (arroz, farofa e vinagrete) usando checkboxes;
