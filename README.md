@@ -1,6 +1,8 @@
 # Gama barbecue
 Crie uma aplicação responsiva que calcule, a partir do número de pessoas e horas, os insumos necessários para a realização de um churrasco (litros de cerveja, refrigerante e quilos de carne/vegetais). 
 
+Exemplo de aplicação: https://rafonha-gama-academy.github.io/gama-barbecue/
+
 ## Instruções
 - Você deve usar apenas HTML, CSS e JavaScript para fazer essa aplicação;
 - A aplicação deve ser responsiva, ou seja, se adaptar a diferentes tamanhos de telas;
